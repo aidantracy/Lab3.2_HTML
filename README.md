@@ -2,23 +2,12 @@
 
 ## Overview
 
-TODO: Write a project description
+This was a fairly easy lab this week. I did not refrain from using google but only for one thing, the text decoration. I was trying to figure out which css property I could incorporate inline to make the HTML and CSS with a dotted underline in the letter.
+
+I didn't feel like tests were necessary to employ in this lab. There was no javascript and the CSS file was already complete for this lab. 
+
+I did refer to the CSS to make sure that each element listed was covered and addressed. 
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+I used a quick google search for the dotted underline text decoration css property that I got from stack overflow. 
